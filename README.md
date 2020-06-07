@@ -12,26 +12,26 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [Unix Command Line Tools to Process Text](ShellUnix-proc-text.pdf)
 
-- [NLTK: Access to Corpora and Linguistic Resources](notebooks/nltk-corpus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/nltk-corpus.ipynb)
+- [NLTK: Access to Corpora and Linguistic Resources](notebooks/nltk-corpus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/nltk-corpus.ipynb)
 
-- [NLTK: Part-of-Speech Tagging](notebooks/nltk-pos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/nltk-pos.ipynb)
+- [NLTK: Part-of-Speech Tagging](notebooks/nltk-pos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/nltk-pos.ipynb)
 
-- [NLTK: Parsing](notebooks/nltk-analyzers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/nltk-analyzers.ipynb)
+- [NLTK: Parsing](notebooks/nltk-analyzers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/nltk-analyzers.ipynb)
 
-- [TextBlob: NLP](notebooks/textblob.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/textblob.ipynb)
+- [TextBlob: NLP](notebooks/textblob.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/textblob.ipynb)
 
-- [spaCy: NLP](notebooks/spacy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/spacy.ipynb)
+- [spaCy: NLP](notebooks/spacy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/spacy.ipynb)
 
-- [flair: NLP](notebooks/flair.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/flair.ipynb)
+- [flair: NLP](notebooks/flair.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/flair.ipynb)
 
-- [Space Vector Models](notebooks/vsm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/vsm.ipynb)
+- [Space Vector Models](notebooks/vsm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/vsm.ipynb)
 
-- [Word Embeddings](notebooks/word2vec.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-17/blob/master/notebooks/word2vec.ipynb)
+- [Word Embeddings](notebooks/word2vec.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-20/blob/master/notebooks/word2vec.ipynb)
 
 
 ## MOOCs, Courses and Other Materials
 
-- Dragomir Radev's *Introduction to Natural Language Processing* is no longer on Coursera. But here there are [some materials](https://web.eecs.umich.edu/~radev/coursera-slides/).
+- Dragomir Radev's *Introduction to Natural Language Processing* is no longer on Coursera. But here there are [some materials](https://github.com/haohanchen/NLP-Coursera-Annotated-Notes).
 
 - Some years ago, Manning & Jurafsky organized a course on NLP at Coursera. There are some [slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) and [videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269).
 
@@ -94,7 +94,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [BERT pre-trained vectors for Tensorflow](https://github.com/google-research/bert)
   
-- [PyTorch pre-trained vectors](https://github.com/huggingface/pytorch-pretrained-BERT): BERT & OpenAI's GPT Models
+- [Transformers by HuggingFace](https://github.com/huggingface/transformers)
 
 - [Pre-trained word vectors by fastText](https://fasttext.cc)
 
